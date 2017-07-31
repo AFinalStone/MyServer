@@ -1,3 +1,7 @@
+
+Android Service 服务（一）Service： http://blog.csdn.net/ithomer/article/details/7364024
+
+
 ### 1、服务和进程优先级
 
 服务(Service):是一个没有界面,可以长期运行在后台的应用程序;
